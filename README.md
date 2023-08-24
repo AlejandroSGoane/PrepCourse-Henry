@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio del m2 prueba numero2 de henry prep course
+Como crear un repositorio y clonarlo desde github a escritorio local
+
